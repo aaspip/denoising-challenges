@@ -20,7 +20,6 @@ Visualize the results:
 	plt.savefig("cmps.png")
 	plt.show()
 
-
 <p align="center">
 <img src='https://github.com/aaspip/gallery/blob/main/denoising-challenges/cmps.png' alt='comp' width=960/>
 </p>
